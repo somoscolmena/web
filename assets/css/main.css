@@ -2604,6 +2604,8 @@ input, select, textarea {
 		border: solid 1px #1D1B20;
 		margin-bottom: 6em;
 		padding: 3.5em;
+		text-align: justify;
+  		text-justify: inter-word;
 	}
 
 		.box.alt {
